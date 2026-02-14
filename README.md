@@ -169,7 +169,7 @@ ML-S1-25_AIMLCZG565/
 
 1. **Clone the repository:**
    ```bash
-   git clone [(https://github.com/2025ab05156/S1-ML-Assignment-2.git)](https://github.com/2025ab05156/S1-ML-Assignment-2.git)
+   git clone https://github.com/2025ab05156/S1-ML-Assignment-2
    cd S1-ML-Assignment-2
    ```
 
